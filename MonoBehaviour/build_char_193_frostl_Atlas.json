@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_193_frostl_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 682410943640975560
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4603187830113463263
+    }
+  ]
+}

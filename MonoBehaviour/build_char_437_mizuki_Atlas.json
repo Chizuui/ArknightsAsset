@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_437_mizuki_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1141527271178110803
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2433777285342931013
+    }
+  ]
+}

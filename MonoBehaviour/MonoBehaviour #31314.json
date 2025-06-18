@@ -1,0 +1,280 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8605905795391083080
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7647785617504526080
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Idle",
+      "animName": "Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Attack",
+      "animName": "Attack",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Attack_Down",
+      "animName": "Attack_Down",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Die",
+      "animName": "Die",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Born",
+      "animName": "Start",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Default",
+      "animName": "Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Skill_1",
+      "animName": "Skill_1",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Skill_2",
+      "animName": "Skill_2",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Skill_1_Up",
+      "animName": "Skill_1_Up",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_2_Up",
+      "animName": "Skill_2_Up",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_1_Down",
+      "animName": "Skill_1_Down",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    },
+    {
+      "animKey": "Skill_2_Down",
+      "animName": "Skill_2_Down",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 0
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -1664713505943376456
+  },
+  "_front": {
+    "skeleton": {
+      "m_FileID": 0,
+      "m_PathID": -3424577916879098440
+    },
+    "muzzlaTransform": {
+      "m_FileID": 0,
+      "m_PathID": -6949196924104266312
+    },
+    "hitTransform": {
+      "m_FileID": 0,
+      "m_PathID": -5323818183911199304
+    },
+    "headTransform": {
+      "m_FileID": 0,
+      "m_PathID": -4595901259078685256
+    },
+    "shadowTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint0": {
+      "m_FileID": 0,
+      "m_PathID": 7951884736013544888
+    },
+    "specialPoint1": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint2": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint3": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint4": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint5": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint6": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint7": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint8": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint9": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint10": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint11": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint12": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint13": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint14": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint15": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_back": {
+    "skeleton": {
+      "m_FileID": 0,
+      "m_PathID": -6504435572192563784
+    },
+    "muzzlaTransform": {
+      "m_FileID": 0,
+      "m_PathID": 6804768075536477624
+    },
+    "hitTransform": {
+      "m_FileID": 0,
+      "m_PathID": 5932508321078980024
+    },
+    "headTransform": {
+      "m_FileID": 0,
+      "m_PathID": -4595901259078685256
+    },
+    "shadowTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint0": {
+      "m_FileID": 0,
+      "m_PathID": -7895170653438530120
+    },
+    "specialPoint1": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint2": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint3": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint4": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint5": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint6": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint7": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint8": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint9": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint10": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint11": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint12": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint13": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint14": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint15": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_useNewSpineFormat": 0
+}

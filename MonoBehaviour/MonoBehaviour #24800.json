@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4214747112498511592
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3946247787498927290
+  },
+  "m_Name": "",
+  "_objects": [],
+  "_values": [
+    {
+      "key": "ILLUST_OFFSET",
+      "value": "-9.093101,-157.6892,0",
+      "type": 1
+    },
+    {
+      "key": "ILLUST_SIZE",
+      "value": "1052.622,1052.622,0",
+      "type": 1
+    }
+  ]
+}

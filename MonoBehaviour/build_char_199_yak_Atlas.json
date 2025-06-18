@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_199_yak_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 201723095683835704
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9106415432907490188
+    }
+  ]
+}

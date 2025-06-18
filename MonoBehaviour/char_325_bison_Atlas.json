@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_325_bison_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6807285695983983250
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2139181529487727325
+    }
+  ]
+}

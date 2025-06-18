@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_220_grani_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1797513342450958088
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5605665422544481015
+    }
+  ]
+}

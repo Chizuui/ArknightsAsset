@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_4019_ncdeer_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4823918285481467823
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3265894075182509503
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3267883007806064974
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6360585277869116281
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Default",
+      "animName": "Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Born",
+      "animName": "Start",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Die",
+      "animName": "Die",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle",
+      "animName": "Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_1_Begin",
+      "animName": "Skill_1_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_1_End",
+      "animName": "Skill_1_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_1_Loop",
+      "animName": "Skill_1_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_2_Begin",
+      "animName": "Skill_2_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_2_End",
+      "animName": "Skill_2_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_2_Loop",
+      "animName": "Skill_2_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_3_Begin",
+      "animName": "Skill_3_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_3_End",
+      "animName": "Skill_3_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_3_Loop",
+      "animName": "Skill_3_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun",
+      "animName": "Stun",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun_Begin",
+      "animName": "Stun_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [
+    {
+      "sourceAnimName": "Idle",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_1_Begin",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_1_Loop",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_2_Begin",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_2_Loop",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_3_Begin",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_3_Loop",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Idle",
+      "targetAnimName": "Skill_2_Loop",
+      "mixAnimName": "Skill_2_Begin",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_2_Loop",
+      "targetAnimName": "Idle",
+      "mixAnimName": "Skill_2_End",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Stun",
+      "targetAnimName": "Skill_2_Loop",
+      "mixAnimName": "Skill_2_Begin",
+      "acceptAllSource": 0
+    }
+  ],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_skeleton": {
+    "m_FileID": 0,
+    "m_PathID": -7660042171554580814
+  },
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 2651262855302035122
+  },
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -3582587643634633038
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 2520030223289628338
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

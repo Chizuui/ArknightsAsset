@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_363_toddi_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 4623791496468590686
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -779435840574008191
+    }
+  ]
+}

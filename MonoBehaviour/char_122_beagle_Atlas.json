@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_122_beagle_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 989391806612894745
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1628852855420723330
+    }
+  ]
+}

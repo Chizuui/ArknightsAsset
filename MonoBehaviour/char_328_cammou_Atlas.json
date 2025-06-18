@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_328_cammou_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 3778930212370851040
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6252537795824675969
+    }
+  ]
+}

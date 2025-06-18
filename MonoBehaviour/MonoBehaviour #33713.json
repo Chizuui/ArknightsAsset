@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1935691717681202527
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4576961950985748502
+  },
+  "m_Name": "",
+  "_spineEffectPresets": [
+    {
+      "bone": {
+        "m_FileID": 0,
+        "m_PathID": -6622897760031196511
+      },
+      "_directionType": 0,
+      "createAtWorldPos": 0,
+      "_effects": [
+        "takila_attack_01_buff_02",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "bone": {
+        "m_FileID": 0,
+        "m_PathID": -6622897760031196511
+      },
+      "_directionType": 0,
+      "createAtWorldPos": 0,
+      "_effects": [
+        "takila_attack_01_buff_07",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

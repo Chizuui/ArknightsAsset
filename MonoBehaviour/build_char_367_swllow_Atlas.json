@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_367_swllow_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6977447712857558604
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4652726365303884292
+    }
+  ]
+}

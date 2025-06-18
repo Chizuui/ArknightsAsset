@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_4145_ulpia_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -5102048883239397105
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2949752059968513248
+    }
+  ]
+}

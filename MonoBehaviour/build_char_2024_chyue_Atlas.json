@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_2024_chyue_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1138057650534474795
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4780975714995951329
+    }
+  ]
+}

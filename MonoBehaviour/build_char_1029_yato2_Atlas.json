@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_1029_yato2_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -2158363494431927095
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8622035513455379931
+    }
+  ]
+}

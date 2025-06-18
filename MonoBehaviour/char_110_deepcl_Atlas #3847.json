@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_110_deepcl_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6138972746985840160
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1884070291491460344
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2523653001283729916
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5147349629810172883
+  },
+  "m_Name": "",
+  "_centerTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_shadowTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1349225256195947004
+  },
+  "_isShadowFollowBone": 0,
+  "_followBoneName": "",
+  "_skeleton": {
+    "m_FileID": 0,
+    "m_PathID": 5544960804368513532
+  },
+  "_options": {
+    "idleTimeRange": {
+      "x": 3.0,
+      "y": 10.0
+    },
+    "moveSpeed": 1.0,
+    "moveAnimScale": 1.0,
+    "probToInteractFurniture": 0.5,
+    "probToPlaySpecialAnim": 0.3
+  },
+  "_spineScale": 1.0
+}

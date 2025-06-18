@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_4138_narant_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5309917436215760773
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4442293374757270833
+    }
+  ]
+}

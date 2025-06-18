@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6057950518655513329
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7187774706291778446
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 0,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "_initAtlas": {
+    "m_FileID": 0,
+    "m_PathID": 2253010153656697855
+  },
+  "_initSpriteId": "ea1628cd34849d34b829143aaa4ffb12",
+  "_clipBorder": 0,
+  "_meshType": 0,
+  "_sliceVec": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.0,
+    "w": 1.0
+  },
+  "m_runtimeSprite": {
+    "mainTex": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "alphaTex": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0
+    },
+    "atlasSize": 0,
+    "rotate": 0
+  }
+}

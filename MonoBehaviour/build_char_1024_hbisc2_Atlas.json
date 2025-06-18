@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_1024_hbisc2_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4390464050132512230
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7667879957389644284
+    }
+  ]
+}

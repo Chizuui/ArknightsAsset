@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7068167899086910908
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4360321174078679018
+  },
+  "m_Name": "",
+  "_steeringFactor": 2.5,
+  "_maxSteeringForce": 4.0,
+  "_halfBodyWidth": 0.2
+}
