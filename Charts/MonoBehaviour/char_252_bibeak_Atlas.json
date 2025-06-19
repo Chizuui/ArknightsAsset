@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_252_bibeak_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 7728778609907318535
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4311178316945021336
+    }
+  ]
+}

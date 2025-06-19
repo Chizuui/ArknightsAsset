@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_237_gravel_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5597527336967039640
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6794139036009536900
+    }
+  ]
+}

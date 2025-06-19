@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -414851311091659038
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8665825331570267470
+  },
+  "m_Name": "",
+  "skeletonRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -6213342522998010142
+  },
+  "boneName": "C_Wopean2",
+  "followXYPosition": 1,
+  "followZPosition": 1,
+  "followBoneRotation": 1,
+  "followSkeletonFlip": 0,
+  "followLocalScale": 1,
+  "maintainedAxisOrientation": 1,
+  "initializeOnAwake": 1
+}

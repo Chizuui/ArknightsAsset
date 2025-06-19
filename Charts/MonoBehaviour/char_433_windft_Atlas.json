@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_433_windft_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1497253595005520502
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7525387395783213569
+    }
+  ]
+}

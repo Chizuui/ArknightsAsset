@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5804852908221400747
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4787357033438427353
+  },
+  "m_Name": "",
+  "_replaceAudioPairs": [
+    {
+      "fromSignal": "ON_CHARACTER_WITHDRAW",
+      "fromSubsignal": "char",
+      "toSignal": "ON_UNIT_END",
+      "toSubSignal": "char_ghost2"
+    },
+    {
+      "fromSignal": "ON_UNIT_DEAD",
+      "fromSubsignal": "char",
+      "toSignal": "ON_UNIT_END",
+      "toSubSignal": "char_ghost2"
+    }
+  ]
+}

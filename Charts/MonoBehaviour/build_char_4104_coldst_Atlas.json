@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_4104_coldst_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4417177582951550169
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2936636975816670113
+    }
+  ]
+}

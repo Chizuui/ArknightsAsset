@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_411_tomimi_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 4378481184879810859
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2442562741553289880
+    }
+  ]
+}

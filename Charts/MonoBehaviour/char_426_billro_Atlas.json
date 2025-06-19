@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_426_billro_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 2146095576816467083
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8952677420220858764
+    }
+  ]
+}

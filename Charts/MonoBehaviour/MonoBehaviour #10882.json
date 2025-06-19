@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2612048610873094708
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7739109757538774089
+  },
+  "m_Name": "",
+  "_skinOffset": {
+    "enablePos": 1,
+    "position": {
+      "x": 0.856997,
+      "y": 10.294486
+    },
+    "enableSize": 1,
+    "size": {
+      "x": 1102.9062,
+      "y": 1102.9062
+    }
+  }
+}

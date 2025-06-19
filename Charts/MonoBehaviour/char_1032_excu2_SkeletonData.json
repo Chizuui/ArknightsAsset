@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6887505452609033796
+  },
+  "m_Name": "char_1032_excu2_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2385746413496593343
+    }
+  ],
+  "scale": 0.01,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -5313438693710669664
+  },
+  "isUpgradingBlendModeMaterials": 0,
+  "blendModeMaterials": {
+    "requiresBlendModeMaterials": 0,
+    "applyAdditiveMaterial": 1,
+    "additiveMaterials": [],
+    "multiplyMaterials": [],
+    "screenMaterials": []
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [
+    "Idle",
+    "Idle",
+    "Idle",
+    "Idle",
+    "Attack_A",
+    "Attack_B",
+    "Attack_Down_A",
+    "Attack_Down_B"
+  ],
+  "toAnimation": [
+    "Attack_A",
+    "Attack_B",
+    "Attack_Down_A",
+    "Attack_Down_B",
+    "Idle",
+    "Idle",
+    "Idle",
+    "Idle"
+  ],
+  "duration": [
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2
+  ],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

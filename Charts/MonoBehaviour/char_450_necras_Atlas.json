@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_450_necras_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5771051253682800724
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5643229349668629552
+    }
+  ]
+}

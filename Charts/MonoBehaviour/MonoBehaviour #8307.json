@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8199780669832094265
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6084201217455656041
+  },
+  "m_Name": "",
+  "_replaceEffectPairs": [
+    {
+      "fromEffect": "common_ignite_attack",
+      "toEffect": "leto_skill_01_buff_01"
+    }
+  ],
+  "_useFakeProjectile": 0,
+  "_fakeProjectileConfigs": []
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3875377201930988557
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8665825331570267470
+  },
+  "m_Name": "",
+  "skeletonRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -8383608804576826355
+  },
+  "boneName": "C_Weapon_03",
+  "followXYPosition": 1,
+  "followZPosition": 1,
+  "followBoneRotation": 0,
+  "followSkeletonFlip": 0,
+  "followLocalScale": 0,
+  "maintainedAxisOrientation": 1,
+  "initializeOnAwake": 1
+}

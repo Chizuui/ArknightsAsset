@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_215_mantic_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -7983210181621848225
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8396253641753804626
+    }
+  ]
+}

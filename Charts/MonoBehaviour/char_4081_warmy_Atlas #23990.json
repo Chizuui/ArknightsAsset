@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_4081_warmy_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -2417120817292771464
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3245787911320944513
+    }
+  ]
+}

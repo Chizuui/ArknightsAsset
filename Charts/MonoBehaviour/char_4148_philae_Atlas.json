@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_4148_philae_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -2991971409816544292
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1322621463722972914
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_337_utage_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5045499665618965692
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4089246613437445327
+    }
+  ]
+}

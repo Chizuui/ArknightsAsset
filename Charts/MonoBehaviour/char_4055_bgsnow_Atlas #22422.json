@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_4055_bgsnow_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 7324857384758859659
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8953798311810695137
+    }
+  ]
+}

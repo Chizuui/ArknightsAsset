@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_154_morgan_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 4644049441927120098
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3654426167973744462
+    }
+  ]
+}

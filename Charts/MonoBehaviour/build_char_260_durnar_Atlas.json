@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_260_durnar_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -552790031625827315
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3801558155356840417
+    }
+  ]
+}

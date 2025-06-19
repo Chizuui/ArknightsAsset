@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_451_robin_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 1143461191621368200
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 540678327844444234
+    }
+  ]
+}

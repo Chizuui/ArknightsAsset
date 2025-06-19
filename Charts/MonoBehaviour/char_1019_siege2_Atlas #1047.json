@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_1019_siege2_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -7633182630804659693
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 897768201339056409
+    }
+  ]
+}

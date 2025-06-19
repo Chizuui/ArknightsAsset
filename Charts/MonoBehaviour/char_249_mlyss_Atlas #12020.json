@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_249_mlyss_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -8467147766855955656
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3891239768286615660
+    }
+  ]
+}

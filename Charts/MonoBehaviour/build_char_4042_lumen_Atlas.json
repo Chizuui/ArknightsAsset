@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_4042_lumen_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 1771498138094938141
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6650790659794078631
+    }
+  ]
+}

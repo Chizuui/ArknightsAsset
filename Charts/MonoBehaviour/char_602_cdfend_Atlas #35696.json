@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "char_602_cdfend_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 3305689546507030219
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 52656059326201581
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_4077_palico_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6519382564712138829
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3552317990196263282
+    }
+  ]
+}

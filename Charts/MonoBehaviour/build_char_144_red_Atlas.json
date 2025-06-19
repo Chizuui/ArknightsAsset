@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "build_char_144_red_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 57821200675380268
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4314152993946130518
+    }
+  ]
+}
